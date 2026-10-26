@@ -1,5 +1,5 @@
 # adzercms/mailing
 
-Mailings for AdzerCMS: send messages to the users you choose by email, SMS and messenger bots
+Mailings to chosen users by email, SMS and messenger bots
 
 Read-only package repository: changes go to the monorepository https://github.com/adzercms/adzercms.
